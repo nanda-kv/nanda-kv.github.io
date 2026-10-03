@@ -1,19 +1,13 @@
 # Nanda Venugopal — personal portfolio
 
-Responsive, accessible static portfolio for clinical technology and product leadership. No build step or dependencies required.
+Static portfolio; no build dependencies. GitHub Pages publishes pushes to main through .github/workflows/pages.yml.
 
-## Publish on GitHub
+## Sources (checked October 3, 2026)
 
-1. Create a repository named `portfolio` (or `YOUR_USERNAME.github.io` for your main profile site).
-2. Upload `index.html`, `styles.css`, and `.github/workflows/pages.yml`, preserving their paths, to the `main` branch.
-3. In repository **Settings → Pages → Build and deployment**, select **GitHub Actions**.
-4. Run the **Publish portfolio to GitHub Pages** workflow from the Actions tab if the initial push preceded enabling Pages.
-5. The deployed address is shown in the workflow and Pages settings.
+- https://www.linkedin.com/in/nanda-kishore-venugopal-19460b47 — indexed public listing supports Takeda clinical systems product leadership, Greater Boston, and R. V. College of Engineering. Full profile access was blocked; employment dates and degree specifics are not inferred.
+- https://patents.google.com/patent/US8799235B2/en — published patent supports the inventor listing, title, original assignee, grant date, and invention summary.
+- User-provided professional experience — platform work, delivery counts, automation turnaround, licensing outcomes, and coaching. These are self-reported, not independently verified by the public sources.
 
 ## Edit
 
-Edit the content in `index.html` and design in `styles.css`. Open `index.html` in a browser for a local preview. Paths work for both profile and project Pages sites.
-
-## Content review
-
-The professional claims were drawn from information provided in conversation. Before public release, confirm the experience duration, FY24 release counts, provisioning turnaround, licensing description, patent contribution, and what can be disclosed publicly. Contact links, employer names, headshots, and employment dates are omitted because they were not supplied for this portfolio.
+Update index.html for content and styles.css for presentation. Source links and provenance are included on the website. No scraped contact details or inferred employment history are included.
